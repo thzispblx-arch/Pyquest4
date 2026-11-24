@@ -1,0 +1,23 @@
+PYQUEST 4.0 - GUIA RAPIDO
+
+1. Extraia o arquivo ZIP.
+2. Abra a pasta pyquest.
+3. Toque duas vezes em index.html e escolha Chrome ou outro navegador.
+
+NOVA ABA: "Lista do professor / P2"
+- 20 exercícios do PDF Exercícios de Python sobre Funções.
+- 20 exercícios do PDF Lista de Exercícios de Revisão para P2.
+- 10 exercícios de recursividade das capturas enviadas.
+- Cada exercício tem enunciado, explicação em palavras simples, passos, esqueleto, dica e uma solução possível que fica escondida até você abrir.
+- Há busca, filtros por origem e marcação de exercícios estudados.
+- O progresso fica salvo localmente no navegador do aparelho.
+
+TAMBEM INCLUI
+- Referência dos métodos de listas das Aulas 10 e 11.
+- Explicação de def, parâmetros, argumentos, chamada, print e return.
+- Roteiro atualizado para os dias 24 a 27/11, antes da prova de 28/11/2026.
+
+OBSERVACOES
+- O site é local e não precisa de internet para abrir as aulas.
+- As respostas sugeridas são exemplos didáticos; podem existir outras soluções corretas.
+- Exercícios de matemática, dicionários, busca binária e algoritmos avançados são conteúdo complementar que aparece nas listas de revisão, não necessariamente nas capturas das aulas introdutórias.
